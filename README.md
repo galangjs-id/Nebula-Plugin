@@ -1,13 +1,10 @@
-🌌 Nebula Project
-
-Version: 1.0.0-Release
-Author: @lanzzx1
+# 🌌 Nebula Project
 
 A performance-focused plugin designed to improve device efficiency across various SoCs, with optimized system tweaks and gaming enhancements.
 
 ---
 
-⚙️ Installation
+#⚙️ Installation
 
 Supported on:
 
@@ -15,13 +12,16 @@ Supported on:
 
 Steps:
 
-1. Download the latest release
-2. Install via AxManager
-3. Apply your preferred configuration
+1. Download and install AxManager  
+2. Enable Wireless Debugging, then activate AxManager  
+3. Download the latest release of this plugin  
+4. Open AxManager and navigate to the Plugin section  
+5. Add or import the plugin  
+6. Apply your preferred settings and enjoy
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 🔹 Active Profiles
 
@@ -37,33 +37,34 @@ Steps:
 - RAM Optimizer
 - ZRAM Tweak
 
-🎮 Game Manager
+# 🎮 Game Manager
 
 - Force 60 FPS
 - Disable Background Apps
 - High Priority Thread
 - DND Mode
 
-🌐 Network Optimization
+# 🌐 Network Optimization
 
 - TCP Optimization
 - UDP Buffer Boost
 - WiFi Optimizer
-
-🎯 Gaming Features
+- DNS Customize
+  
+# 🎯 Gaming Features
 
 - Touch Sensitivity (Adjustable X & Y Axis)
 - Touch Response (Latency & Polling Rate)
 
 ---
 
-📌 Notes
+# 📌 Notes
 
 This plugin is still under development.  
 If you encounter any issues or bugs, feel free to report them via Telegram: **@lanzzx1**
 
 ---
 
-⭐ Support
+# ⭐ Support
 
 If you find this project useful, consider giving it a star.
