@@ -4,7 +4,7 @@ A performance-focused plugin designed to improve device efficiency across variou
 
 ---
 
-#⚙️ Installation
+# ⚙️ Installation
 
 Supported on:
 
