@@ -1,4 +1,4 @@
-# Nebula Tweak – Android Performance & Gaming Optimization
+# Nebula Plugin – Android Performance & Gaming Optimization
 
 A performance-focused plugin designed to enhance device efficiency, stability, and responsiveness across various SoCs.
 
